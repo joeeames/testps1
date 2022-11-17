@@ -1,0 +1,13 @@
+{
+  "name": "testps1",
+  "version": "1.0.0",
+  "description": "Hello Mars!",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Eames",
+  "license": "MIT"
+}
