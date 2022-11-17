@@ -1,6 +1,6 @@
 {
   "name": "testps1",
-  "version": "1.0.1",
+  "version": "1.1.0-beta.0",
   "description": "Hello Mars!",
   "main": "index.js",
   "dependencies": {},
